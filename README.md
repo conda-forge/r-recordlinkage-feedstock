@@ -3,7 +3,7 @@ About r-recordlinkage
 
 Home: https://r-forge.r-project.org/projects/recordlinkage/, https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sariyar+Borg.pdf
 
-Package license: GPL-2
+Package license: GPL-2.0-or-later
 
 Feedstock license: BSD-3-Clause
 
