@@ -1,4 +1,4 @@
-{% set version = "0.4-12.1" %}
+{% set version = "0.4-12.2" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/RecordLinkage_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/RecordLinkage/RecordLinkage_{{ version }}.tar.gz
-  sha256: 44af866cfb02964302925012d257cbde85975f2107271fac8efc05cb2a3c0351
+  sha256: 02daf8578f8d31b6c4aa6c90dbc35d6871c6e025b603f5bfb0004412c7f1f3ab
 
 build:
   merge_build_host: true  # [win]
