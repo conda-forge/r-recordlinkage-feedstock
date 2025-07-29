@@ -1,4 +1,4 @@
-{% set version = "0.4-12.4" %}
+{% set version = "0.4-12.5" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,10 +9,10 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/RecordLinkage_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/RecordLinkage/RecordLinkage_{{ version }}.tar.gz
-  sha256: 73bd4f1af768be8786153afc28c6f4162d2a6f0bc053d8d0e1c1b197a6d6d149
+  sha256: 3db03e2fd8c6a34cc5390065dc1ea30f7b11b505b26f128e14facfeaa7e5b791
 
 build:
-  number: 3
+  number: 0
   rpaths:
     - lib/R/lib/
     - lib/
