@@ -11,7 +11,7 @@ Home: https://cran.r-project.org/package=RecordLinkage
 
 Package license: GPL-2.0-or-later
 
-Summary: Provides functions for linking and de-duplicating data sets. Methods based on a stochastic approach are implemented as well as classification algorithms from the machine learning domain.
+Summary: Provides functions for linking and deduplicating data sets. Methods based on a stochastic approach are implemented as well as classification algorithms from the machine learning domain. For details, see our paper "The RecordLinkage Package: Detecting Errors in Data" Sariyar M / Borg A (2010) <doi:10.32614/RJ-2010-017>.
 
 About r-recordlinkage
 ---------------------
@@ -20,7 +20,7 @@ Home: https://cran.r-project.org/package=RecordLinkage
 
 Package license: GPL-2.0-or-later
 
-Summary: Provides functions for linking and de-duplicating data sets. Methods based on a stochastic approach are implemented as well as classification algorithms from the machine learning domain.
+Summary: Provides functions for linking and deduplicating data sets. Methods based on a stochastic approach are implemented as well as classification algorithms from the machine learning domain. For details, see our paper "The RecordLinkage Package: Detecting Errors in Data" Sariyar M / Borg A (2010) <doi:10.32614/RJ-2010-017>.
 
 Current build status
 ====================
